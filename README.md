@@ -1,29 +1,24 @@
-# vue-project
+# Projet Vue.js Lucas Chabel Nolan Fievet
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Setup du Projet
 
 ```sh
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Description des pages
 
-```sh
-npm run build
-```
+### Enregistrer un flux
+Mettre le nom que l'on veut donner au flux ainsi que le lien
+
+### Liste des flux 
+Bouton de recherche : Rentrer le nom du flux voulu parmi les flux enregistrer pour le retouver
+Bouton supprimer : Supprimer un flux déjà enregistrer
+Modifier : Modifie l'info d'un flux
+Favori : Ajoute le flux aux favoris
+
+### Préférences
+Affiche les flux favoris, barre de recherche pour retrouver un flux favori spécifique
